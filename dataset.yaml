@@ -1,0 +1,11 @@
+path: C:\Users\andre\OneDrive\Escritorio\YoloModelo\Data\
+train: train/images
+val: val/images
+test:
+
+names:
+    0: Chaleco
+    1: Bota
+    2: Gafa
+    3: Guante
+    4: Casco
